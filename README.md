@@ -15,4 +15,4 @@ Automation testing halaman login menggunakan JavaScript, Selenium WebDriver, dan
 - after()
 
 ## Run Test
-npx mocha login.test.js --timeout 60000
+npx mocha test --timeout 60000
